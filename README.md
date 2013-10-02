@@ -1,4 +1,0 @@
-stanley-bakery
-==============
-
-Test repository
